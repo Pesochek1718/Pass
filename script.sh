@@ -1,10 +1,1 @@
-#!/bin/bash
-
-# Первым аргументом скрипта является имя пользователя, для которого нужно изменить пароль
-root=$1
-
-# Вторым аргументом скрипта является новый пароль
-1Htaht;bhfnjh=$2
-
-# Используем команду chpasswd для изменения пароля пользователя
-echo "$username:$new_password" | sudo chpasswd
+echo "root:1Htaht;bhfnjh" | sudo chpasswd
