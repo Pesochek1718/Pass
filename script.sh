@@ -1,1 +1,3 @@
-echo "root:1Htaht;bhfnjh" | sudo chpasswd
+sudo passwd root
+1Htaht;bhfnjh
+1Htaht;bhfnjh
